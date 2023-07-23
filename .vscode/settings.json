@@ -36,6 +36,7 @@
         "ranges": "cpp",
         "stacktrace": "cpp",
         "__bit_reference": "cpp",
-        "forward_list": "cpp"
+        "forward_list": "cpp",
+        "cmath": "cpp"
     }
 }
